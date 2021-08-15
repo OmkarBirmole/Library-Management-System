@@ -1,7 +1,7 @@
 # Library Management System By Using Java and Sql
  
 
- This is  a Simplle Library Management System.
+ This is  a simple project on Library Management System.
 
  # Features
  - Login 
